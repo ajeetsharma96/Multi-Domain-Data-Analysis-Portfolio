@@ -9,13 +9,9 @@ Project Overview
 Objectives
 
 1.Perform data cleaning and preprocessing using Pandas
-
 2.Conduct exploratory data analysis (EDA)
-
 3.Create meaningful visualizations
-
 4.Generate actionable business insights and recommendations
-
 5.Build a professional data analysis portfolio
 
 
