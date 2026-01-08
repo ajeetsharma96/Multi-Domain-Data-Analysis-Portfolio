@@ -1,0 +1,16 @@
+# Libraries Required: 
+
+pandas
+numpy
+matplotlib
+seaborn
+
+
+# Data Sets Required: 
+
+Covid-19 Data
+Stock Market Data
+Student Performance Data
+Super Market Sales Data
+Weather Temperature Data
+
