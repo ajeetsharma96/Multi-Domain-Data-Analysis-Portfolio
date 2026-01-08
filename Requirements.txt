@@ -5,6 +5,8 @@ numpy
 matplotlib
 seaborn
 
+Code Editor: VS Code
+
 
 # Data Sets Required: 
 
